@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "svenskhandel/flysystem-azure-blob-storage": "3.x"
+        "svenskhandel/flysystem-azure-blob-storage": "3.x-dev"
     },
     "require-dev": {
         "infection/infection": "^0.26.11",
