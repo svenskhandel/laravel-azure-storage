@@ -3,6 +3,12 @@
     "description": "Microsoft Azure Blob Storage integration for Laravel's Storage API",
     "type": "library",
     "keywords": ["storage","laravel","azure"],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:svenskhandel/flysystem-azure-blob-storage.git"
+        }
+    ],
     "require": {
         "league/flysystem-azure-blob-storage": "^3.0"
     },
